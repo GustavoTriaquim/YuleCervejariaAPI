@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "yuleuser",
+      "password": 123456
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Porta-copos",
+      "couro_m2": 0.05,
+      "bagaco_malte_kg": 0.2
+    },
+    {
+      "id": 2,
+      "name": "Carteira",
+      "couro_m2": 0.1,
+      "bagaco_malte_kg": 0.3
+    },
+    {
+      "id": 3,
+      "name": "Capinha",
+      "couro_m2": 0.15,
+      "bagaco_malte_kg": 0.5
+    }
+  ]
+}
